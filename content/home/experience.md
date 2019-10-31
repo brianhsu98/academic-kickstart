@@ -59,7 +59,7 @@ client demands.
 * Worked with PhD student Nate Weinman, under Professor Armando Fox, to research and develop novel computer science practice problems
 to make computer science more accessible and easier-to-learn for beginning and intermediate students.
 * Collaboratively designed and implemented an interactive web application to solve Parsons Problems, enabling a 80+ student research study.
-* Developed a system for automatically grading student submissions at scale safely and efficiently, parallelized using multiple workers.]
+* Developed a system for automatically grading student submissions at scale safely and efficiently, parallelized using multiple workers.
   """
 
 +++

@@ -45,7 +45,7 @@ subtitle = ""
 [[feature]]
   icon = "docker"
   icon_pack = "fab"
-  name = "docker"
+  name = "Docker"
 [[feature]]
   icon = "cloud"
   icon_pack = "fas"
